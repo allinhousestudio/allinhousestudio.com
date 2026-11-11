@@ -3,7 +3,7 @@
 /* ===== SETTINGS =====
    Paste your Google Analytics Measurement ID between the quotes, for example 'G-AB12CD34EF'.
    While it's empty, no cookie banner shows and Google Analytics never loads. */
-var GA_MEASUREMENT_ID = '';
+var GA_MEASUREMENT_ID = 'G-PFTV4YZNYC';
 /* ==================== */
 
 (function () {
